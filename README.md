@@ -7,8 +7,8 @@ You are given a string s and two integers x and y. You can perform two types of 
 - Remove substring "ab" and gain x points.</br>
 &nbsp;&nbsp; - For example, when removing "ab" from "cabxbae" it becomes "cxbae".</br>
 - Remove substring "ba" and gain y points.</br>
-For example, when removing "ba" from "cabxbae" it becomes "cabxe".</br>
-&nbsp;&nbsp; - Return the maximum points you can gain after applying the above operations on s.
+&nbsp;&nbsp; - For example, when removing "ba" from "cabxbae" it becomes "cabxe".</br>
+- Return the maximum points you can gain after applying the above operations on s.
 
 Example 1:
 
